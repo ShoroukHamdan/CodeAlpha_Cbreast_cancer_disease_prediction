@@ -412,7 +412,7 @@ Although the models achieve high performance, several limitations should be cons
 
 **Shorouk Hamdan**
 
-Machine Learning 
+Machine Learning/
 Electrical Engineering Graduate
 
 ---
